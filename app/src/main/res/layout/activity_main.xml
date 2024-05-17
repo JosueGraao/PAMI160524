@@ -14,6 +14,8 @@
         <com.google.android.material.appbar.MaterialToolbar
             android:id="@+id/idTopBar"
             app:menu="@menu/menu_topbar"
+            app:title="Barbacena"
+            app:navigationIcon="@drawable/baseline_arrowback"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
